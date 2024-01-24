@@ -1,0 +1,14 @@
+C:\Users\smont\OneDrive\Documentos\Año bisiesto\bin\Debug\net8.0\Año bisiesto.exe
+C:\Users\smont\OneDrive\Documentos\Año bisiesto\bin\Debug\net8.0\Año bisiesto.deps.json
+C:\Users\smont\OneDrive\Documentos\Año bisiesto\bin\Debug\net8.0\Año bisiesto.runtimeconfig.json
+C:\Users\smont\OneDrive\Documentos\Año bisiesto\bin\Debug\net8.0\Año bisiesto.dll
+C:\Users\smont\OneDrive\Documentos\Año bisiesto\bin\Debug\net8.0\Año bisiesto.pdb
+C:\Users\smont\OneDrive\Documentos\Año bisiesto\obj\Debug\net8.0\Año bisiesto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smont\OneDrive\Documentos\Año bisiesto\obj\Debug\net8.0\Año bisiesto.AssemblyInfoInputs.cache
+C:\Users\smont\OneDrive\Documentos\Año bisiesto\obj\Debug\net8.0\Año bisiesto.AssemblyInfo.cs
+C:\Users\smont\OneDrive\Documentos\Año bisiesto\obj\Debug\net8.0\Año bisiesto.csproj.CoreCompileInputs.cache
+C:\Users\smont\OneDrive\Documentos\Año bisiesto\obj\Debug\net8.0\Año bisiesto.dll
+C:\Users\smont\OneDrive\Documentos\Año bisiesto\obj\Debug\net8.0\refint\Año bisiesto.dll
+C:\Users\smont\OneDrive\Documentos\Año bisiesto\obj\Debug\net8.0\Año bisiesto.pdb
+C:\Users\smont\OneDrive\Documentos\Año bisiesto\obj\Debug\net8.0\Año bisiesto.genruntimeconfig.cache
+C:\Users\smont\OneDrive\Documentos\Año bisiesto\obj\Debug\net8.0\ref\Año bisiesto.dll
